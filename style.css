@@ -1,0 +1,345 @@
+.borde {
+margin-top: -70px;
+
+}
+
+
+
+.usericonformii {
+  display: block;
+  margin-top: -150px;
+  width: 150px;
+}
+
+.feed {
+ display: block;
+ margin-top: -5px;
+ width: 150px;
+
+}
+
+.communites {
+ display: block;
+ margin-top: ;
+width: 150px;
+
+}
+
+.message_wiiu {
+  display: block;
+  width: 150px;
+}
+
+.notifications {
+ margin-left: -5px;
+  width: 150px;
+}
+
+.back {
+
+  display: block;
+  margin: -20px;
+  width: 160px;
+  margin-top: -20px;
+  margin-left: 10px;
+}
+
+.todos {
+  position: fixed;
+
+
+}
+
+.fixed-images {
+  position: fixed;
+  top: 50px; /* Ajusta la posición vertical */
+  left: 50px; /* Ajusta la posición horizontal */
+  z-index: 1000; /* Asegura que esté por encima de otros elementos */
+}
+
+
+.barra {
+display: block;
+margin-top: -770px;
+width: 390px;
+margin-left: 10px;
+}
+
+.favorites {
+width: 450px;
+margin-left: 1150px;
+margin-top: -550px;
+}
+
+.mk8 {
+margin-top: 10px;
+width: 140px;
+margin-left: 200px;
+border-radius: 25px;
+
+
+}
+
+.news {
+
+margin-left: 150px;
+width: 1200px;
+margin-top: 250px;
+
+}
+
+.miiverse {
+display: block;
+margin-left: 400px;
+width: 600px;
+margin-top: -350px;
+
+}
+
+.filter_button {
+width: 250px;
+margin-left: 1300px;
+margin-top: 45px;
+
+}
+
+.wiiu {
+  display: block;
+  width: 40px;
+  margin-top: 400px;
+  margin-left: 1300px;
+}
+
+.text_mk8 {
+  margin-left: 360px;
+ margin-top: -140px;
+
+  
+}
+.squid {
+width: 140px;
+margin-left: 730px;
+margin-top: 10px;
+border-radius: 25px;
+}
+
+.splatoon {
+margin-left: 1250px;
+margin-top: -60px;
+}
+
+.cat {
+width: 130px;
+margin-top: 200px;
+margin-left: 1090px;
+border-radius: 25px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------
+.image-right {
+  display: block;
+  margin-left: auto;
+  margin-right: 0;
+}
+
+
+.imagen-derecha {
+
+margin-right: 100px;
+float: right
+}
+
+
+
+.img-1  {
+  width: 200px;
+  margin-right: 3%;
+
+}
+
+
+
+
+
+.box{
+
+    background-image: url(../img/background.png);
+  
+  
+  }
+  
+  .lilita-one-regular {
+    font-family: "Lilita One", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  
+  
+  .wiiu{
+    
+    margin-top: 200px;
+     width: 200px;
+  
+  }
+  
+  
+  
+  
+  body{
+      margin: 0;
+      padding: 0;
+      background: url(img/background.png);   
+      background-size: cover;
+      background-position: center;
+      font-family: sans-serif;
+  }
+  
+  .sec-1 {
+      text-align: unset;
+     display: contents;
+     width: 2000%;
+  
+  
+    }
+  
+  
+  /*base*/
+  * {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    margin: 3.5rem 0 0 0;
+    font-family: "Poppins", sans-serif;
+    font-size: 2rem;
+    background: linear-gradient(90deg, #000000 0%, #08174a 50%);
+    color: #000000;
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4 {
+    color: #000000;
+    font-weight: 600;
+  }
+  
+  ul {
+    list-style: none;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  button,
+  input {
+    border: none;
+    outline: none;
+  }
+  
+  button {
+    cursor: pointer;
+    font-family: "Poppins", sans-serif;
+    font-size: 0.938rem;
+  }
+  
+  /*reutilisabes*/
+  .section {
+    padding: 4.5rem 0 2rem;
+  }
+  
+  .sectiontitle {
+    font-size: 2.25rem !important;
+    margin-bottom: 2rem;
+    text-align: center;
+  }
+  
+  .container {
+    max-width: 968px;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+  }
+  
+  .grid {
+    display: grid;
+  }
+  
+  .main {
+    overflow: hidden;
+  }
+  
+  body {
+      
+     background-image: url(/img/background.png)   
+   
+    
+  }
+  
+  .contenedor {
+  
+  width: 250px;
+  margin-left: 150px;
+  
+  
+  }
