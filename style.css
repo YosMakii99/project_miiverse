@@ -118,23 +118,273 @@ margin-top: 45px;
 }
 .squid {
 width: 140px;
-margin-left: 730px;
+margin-left: 550px;
 margin-top: 10px;
 border-radius: 25px;
 }
 
 .splatoon {
-margin-left: 1250px;
+margin-left: 1050px;
 margin-top: -60px;
 }
 
 .cat {
 width: 130px;
-margin-top: 200px;
-margin-left: 1090px;
+margin-top: 110px;
+margin-left: 905px;
 border-radius: 25px;
 
 }
+
+.contenedor {
+  width: 80vw; /* Mejor que un valor fijo en px */
+}
+
+.nintendo {
+  display: block;
+width: 130px;
+margin-left: 200px;
+margin-top: -145px;
+border-radius: 25px;
+
+}
+
+.super_mario_3d_word {
+  display: block;
+margin-left: 1050px;
+margin-top: -110px;
+
+}
+
+.nintendo_land {
+ margin-left: 350px;
+ margin-top: -80px;
+ width: 10px;
+
+}
+
+.homebrew {
+width: 130px;
+margin-top: 60px;
+margin-left: 200px;
+border-radius: 25px;
+}
+
+.minecraft {
+margin-left: 905px;
+margin-top: -145px;
+display: block;
+width: 130px;
+border-radius: 25px;
+}
+
+.Homebrew_Community {
+margin-left: 350px;
+margin-top: -100px;
+}
+
+.Minecraft_text {
+  display: block;
+margin-left: 1050px;
+margin-top: -70px;
+
+}
+
+.mario_game {
+margin-top: 100px;
+margin-left: 200px;
+border-radius: 25px;
+}
+
+.super_luigi{
+margin-left: 570px;
+border-radius: 25px;
+}
+
+.newSuperMario {
+  display: block;
+margin-left: 350px;
+margin-top: -130px;
+
+}
+
+.SuperLuigi {
+  margin-left: 1050px;
+  margin-top: -50px;
+}
+
+.smash_game {
+margin-top: 100px;
+margin-left: 200px;
+border-radius: 25px;
+}
+
+.mario_maker_game {
+margin-left: 575px;
+border-radius: 25px;
+
+}
+
+.smash_text {
+  margin-left: 330px;
+  margin-top: -140px;
+}
+
+.maker {
+margin-left: 1055px;
+margin-top: -40px;
+}
+
+.nintendo_tvii {
+  margin-top: 100px;
+  margin-left: 200px;
+  width: 130px;
+}
+
+.wario_game {
+  margin-left: 570px;
+  border-radius: 25px;
+}
+
+.tvii {
+  margin-left: 330px;
+  margin-top: -130px;
+}
+
+.wario_txt {
+  margin-left: 1050px;
+  margin-top: -60px;
+ 
+}
+
+.left {
+  margin-left: 100px;
+  margin-top: 20px;
+  width: ;
+}
+
+.shantae {
+  margin-top: 100px;
+  margin-left: 200px;
+  border-radius: 25px;
+}
+
+.Mii-player {
+  margin-left: 570px;
+  border-radius: 25px;
+}
+
+.shantae_txt {
+  margin-left: 350px;
+  margin-top: -140px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
