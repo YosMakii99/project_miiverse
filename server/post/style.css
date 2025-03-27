@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #1e1e1e;
+    color: white;
+}
+
+.chat-container {
+    max-width: 500px;
+    margin: 20px auto;
+    background: #333;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+input {
+    width: 80%;
+    padding: 10px;
+}
+
+button {
+    padding: 10px;
+    background: red;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+canvas {
+    border: 2px solid white;
+    background: #222;
+    display: block;
+    margin: auto;
+}
+
+body {
+      
+    background-image: url(/img/background.png)   
+  
+   
+ }

@@ -1,3 +1,26 @@
+/* Para pantallas grandes (PC) */
+@media (min-width: 1024px) {
+  body {
+    font-size: 18px;
+  }
+}
+
+/* Para tablets */
+@media (max-width: 1024px) {
+  body {
+    font-size: 16px;
+  }
+}
+
+/* Para celulares */
+@media (max-width: 768px) {
+  body {
+    font-size: 14px;
+    text-align: center;
+  }
+}
+
+
 .borde {
 margin-top: -70px;
 
@@ -9,6 +32,7 @@ margin-top: -70px;
   display: block;
   margin-top: -150px;
   width: 150px;
+  margin-right: 120px;
 }
 
 .feed {
@@ -41,7 +65,7 @@ width: 150px;
   margin: -20px;
   width: 160px;
   margin-top: -20px;
-  margin-left: 10px;
+  margin-left: -10px;
 }
 
 .todos {
@@ -103,10 +127,10 @@ margin-top: 45px;
 
 }
 
-.wiiu {
-  display: block;
-  width: 40px;
-  margin-top: 400px;
+.wii_u {
+display: block;
+  width: 200px;
+  margin-top: -1150px;
   margin-left: 1300px;
 }
 
@@ -258,8 +282,8 @@ margin-top: -40px;
 }
 
 .left {
-  margin-left: 100px;
-  margin-top: 20px;
+  margin-left: -60px;
+  margin-top: 0px;
   width: ;
 }
 
@@ -274,21 +298,42 @@ margin-top: -40px;
   border-radius: 25px;
 }
 
+.wiiParty {
+  margin-top: -45px;
+  margin-left: 1050px;
+
+}
+
 .shantae_txt {
+
   margin-left: 350px;
   margin-top: -140px;
 }
 
+.favorite {
+  width: 410px;
+  margin-left: 1175px;
+  margin-top: -130px;
+  display: block;
+}
+
+.focus-within\\:border-green-500 {
+  transition: all 0.2s ease-in-out;
+}
+
+body {
+  cursor: url('miiverse-cursor.cur'), auto;
+}
+
+body {
+  cursor: url('barradeopcion.png'), auto;
+}
+
+.mariokartlink {
+width: 200px;
 
 
-
-
-
-
-
-
-
-
+}
 
 
 
@@ -487,7 +532,7 @@ float: right
   body{
       margin: 0;
       padding: 0;
-      background: url(img/background.png);   
+      background: url(/img/background.png);   
       background-size: cover;
       background-position: center;
       font-family: sans-serif;
