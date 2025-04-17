@@ -8,9 +8,8 @@ margin-right: -800px;
 
 }
 .borde {
-margin-top: -50px;
-width: 1400px;
-display: block;
+margin-top: -250px;
+width: 5000px;
 
 
 }
@@ -22,7 +21,7 @@ display: block;
 
 .usericonformii {
   display: block;
-  margin-top: -70px;
+  margin-top: -50px;
   width: 180px;
   margin-right: 120px;
 }
@@ -165,7 +164,7 @@ display: block;
 
 .spoth{
   border-radius: 25px;
-  margin-left: 170px;
+  margin-left: 200px;
   margin-top: -330px;
   display: block;
 }
