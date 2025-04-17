@@ -1,482 +1,481 @@
 
-
 .shadow {
-width: 1000px;
-margin-right: -800px;
-
-
-
-}
-.borde {
-margin-top: -250px;
-width: 5000px;
-
-
-}
-
-.communities {
-  max-width: 1200px; /* No se estira demasiado en pantallas grandes */
-  margin: auto; /* Centra el contenido */
-}
-
-.usericonformii {
-  display: block;
-  margin-top: -103px;
+  width: 1000px;
+  margin-right: -800px;
+  
+  
+  
+  }
+  .borde {
+  margin-top: -250px;
+  width: 5000px;
+  
+  
+  }
+  
+  .communities {
+    max-width: 1200px; /* No se estira demasiado en pantallas grandes */
+    margin: auto; /* Centra el contenido */
+  }
+  
+  .usericonformii {
+    display: block;
+    margin-top: -103px;
+    width: 180px;
+    margin-right: 120px;
+  }
+  
+  .feed {
+   display: block;
+   margin-top: -0px;
+   width: 180px;
+  
+  }
+  
+  .communites {
+   display: block;
+   margin-top: ;
+   margin-top: -10;
   width: 180px;
-  margin-right: 120px;
-}
-
-.feed {
- display: block;
- margin-top: -0px;
- width: 180px;
-
-}
-
-.communites {
- display: block;
- margin-top: ;
- margin-top: -10;
-width: 180px;
-
-}
-
-.message_wiiu {
-  display: block;
-  width: 180px;
-}
-
-.notifications {
- margin-left: -0px;
-  width: 180px;
-}
-
-.back {
-
-  display: block;
-  margin: -20px;
-  width: 180px;
-  margin-top: -15px;
-  margin-left: -0px;
-}
-
-.se{
- margin-left: 1390px;
-width: 200px;
-margin-top: 600px;
-}
-
-.todos {
-  position: fixed;
-
-
-}
-
-.fixed-images {
-  position: fixed;
-  top: 50px; /* Ajusta la posición vertical */
-  left: 50px; /* Ajusta la posición horizontal */
-  z-index: 1000; /* Asegura que esté por encima de otros elementos */
-}
-
-
-.barra {
-display: block;
-margin-top: -770px;
-width: 390px;
-margin-left: 10px;
-}
-
-.favorites {
-width: 470px;
-margin-left: 1130px;
-margin-top: -100px;
-display: block;
-}
-
-.wiu {
-
-width: 170px;
-margin-left: 1350px;
-margin-top: -100px;
-display: block;
-
-}
-
-
-
-.but {
-  width: 500px;
-  margin-left: 1000px;
-  margin-top: -500px;
-  display: block;
-}
-
-
-.mk8 {
-margin-top: 1000px;
-width: 140px;
-margin-left: 200px;
-border-radius: 25px;
-
-}
-
-.icon_tag {
-
-margin-top: -200px;
-
-}
-
-
-
-
-
-
-.news {
-
-margin-left: 190px;
-width: 1700px;
-margin-top: 300px;
-
-}
-
-.miiverse {
-display: block;
-margin-left: 400px;
-width: 1000px;
-margin-top: -215px;
-
-}
-
-.filter_button {
-width: 250px;
-margin-left: 1250px;
-margin-top: 45px;
-
-}
-
-.wii_u {
-display: block;
+  
+  }
+  
+  .message_wiiu {
+    display: block;
+    width: 180px;
+  }
+  
+  .notifications {
+   margin-left: -0px;
+    width: 180px;
+  }
+  
+  .back {
+  
+    display: block;
+    margin: -20px;
+    width: 180px;
+    margin-top: -15px;
+    margin-left: -0px;
+  }
+  
+  .se{
+   margin-left: 1390px;
   width: 200px;
-  margin-top: -1150px;
-  margin-left: 1300px;
-}
-
-.spoth{
-  border-radius: 25px;
+  margin-top: 600px;
+  }
+  
+  .todos {
+    position: fixed;
+  
+  
+  }
+  
+  .fixed-images {
+    position: fixed;
+    top: 50px; /* Ajusta la posición vertical */
+    left: 50px; /* Ajusta la posición horizontal */
+    z-index: 1000; /* Asegura que esté por encima de otros elementos */
+  }
+  
+  
+  .barra {
+  display: block;
+  margin-top: -770px;
+  width: 390px;
+  margin-left: 10px;
+  }
+  
+  .favorites {
+  width: 470px;
+  margin-left: 1130px;
+  margin-top: -100px;
+  display: block;
+  }
+  
+  .wiu {
+  
+  width: 170px;
+  margin-left: 1350px;
+  margin-top: -100px;
+  display: block;
+  
+  }
+  
+  
+  
+  .but {
+    width: 500px;
+    margin-left: 1000px;
+    margin-top: -500px;
+    display: block;
+  }
+  
+  
+  .mk8 {
+  margin-top: 1000px;
+  width: 140px;
   margin-left: 200px;
-  margin-top: -650px;
-  display: block;
-}
-
-.sn {
-width: 110px;
-margin-left: 420px;
-border-radius: 25px;
-margin-top: -100px;
-display: block;
-}
-
-.sp{
-  width: 110px;
-  margin-left: 540px;
   border-radius: 25px;
-  margin-top: -110px;
+  
+  }
+  
+  .icon_tag {
+  
+  margin-top: -200px;
+  
+  }
+  
+  
+  
+  
+  
+  
+  .news {
+  
+  margin-left: 190px;
+  width: 1700px;
+  margin-top: 300px;
+  
+  }
+  
+  .miiverse {
   display: block;
-
-}
-
-.sh{
-  width: 110px;
-  margin-left: 660px;
-  border-radius: 25px;
-  margin-top: -110px;
-  display: block;
-}
-
-
-
-.wp{
-  width: 110px;
-  margin-left: 780px;
-  border-radius: 25px;
-  margin-top: -110px;
-  display: block;
-
-}
-
-.meme{
-  width: 110px;
-  margin-left: 900px;
-  border-radius: 25px;
-  margin-top: -110px;
-  display: block;
-
-
-
-}
-
-
-.cam{
-width: 50px;
-margin-left: 200px;
-margin-top: -110px;
-
-}
-
-.se {
-position: fixed;
-
-}
-
-
-body {
-  cursor: url('/ruta/al/frame.png'), auto;
-}
-
-#gamepad-cursor {
-  position: fixed;
-  width: 20px;
-  height: 20px;
-  background-color: limegreen;
-  border-radius: 50%;
-  pointer-events: none;
-  z-index: 10000;
-}
-
-.contenedor {
-  position: relative;
-  display: inline-block;
-}
-
-.img {
-  display: block;
-  width: 40%;
-  border-radius: 10px;
-}
-
-.contenedor {
-  position: relative;
-  display: inline-block;
-}
-
-.contenedor {
-  display: block;
-  width: 10%;
-  border-radius: 10px;
-}
-
-.barra-opciones {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background: rgba(0,0,0,0.5);
-  padding: 1px;
-  display: flex;
-  justify-content: space-around;
-}
-
-.barra-opciones button {
-  color: white;
-  background: transparent;
-  border: 1px solid white;
-  border-radius: 5px;
-  padding: 5px 10px;
-
-}
-
-
-
-.contenedor{
+  margin-left: 400px;
+  width: 1000px;
+  margin-top: -215px;
+  
+  }
+  
+  .filter_button {
   width: 250px;
   margin-left: 1250px;
-  margin-top: 300px;
+  margin-top: 45px;
+  
+  }
+  
+  .wii_u {
   display: block;
-  
+    width: 200px;
+    margin-top: -1150px;
+    margin-left: 1300px;
   }
   
-.barra-opciones {
-  opacity: 0;
-  transition: opacity 0.3s ease;
-}
-
-.contenedor:hover .barra-opciones {
-  opacity: 1;
-}
-
-
-
-.miib {
-width: 900px;
-margin-top: 100px;
-margin-left: 400px;
-
-}
-
-
-
-background-image: url('/img/background.png');
-
-
-
-
-
-
-
-
-
-
-
-----------------------------------------------------------------------------------------------
-.image-right {
+  .spoth{
+    border-radius: 25px;
+    margin-left: 200px;
+    margin-top: -650px;
+    display: block;
+  }
+  
+  .sn {
+  width: 110px;
+  margin-left: 420px;
+  border-radius: 25px;
+  margin-top: -100px;
   display: block;
-  margin-left: auto;
-  margin-right: 0;
-}
-
-
-.imagen-derecha {
-
-margin-right: 100px;
-float: right
-}
-
-
-
-.img-1  {
-  width: 200px;
-  margin-right: 3%;
-
-}
-
-
-
-
-
-.box{
-
-    background-image: url(../img/background.png);
+  }
   
+  .sp{
+    width: 110px;
+    margin-left: 540px;
+    border-radius: 25px;
+    margin-top: -110px;
+    display: block;
   
   }
   
-  .lilita-one-regular {
-    font-family: "Lilita One", serif;
-    font-weight: 400;
-    font-style: normal;
+  .sh{
+    width: 110px;
+    margin-left: 660px;
+    border-radius: 25px;
+    margin-top: -110px;
+    display: block;
   }
   
   
   
-  .wiiu{
+  .wp{
+    width: 110px;
+    margin-left: 780px;
+    border-radius: 25px;
+    margin-top: -110px;
+    display: block;
+  
+  }
+  
+  .meme{
+    width: 110px;
+    margin-left: 900px;
+    border-radius: 25px;
+    margin-top: -110px;
+    display: block;
+  
+  
+  
+  }
+  
+  
+  .cam{
+  width: 50px;
+  margin-left: 200px;
+  margin-top: -110px;
+  
+  }
+  
+  .se {
+  position: fixed;
+  
+  }
+  
+  
+  body {
+    cursor: url('/ruta/al/frame.png'), auto;
+  }
+  
+  #gamepad-cursor {
+    position: fixed;
+    width: 20px;
+    height: 20px;
+    background-color: limegreen;
+    border-radius: 50%;
+    pointer-events: none;
+    z-index: 10000;
+  }
+  
+  .contenedor {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .img {
+    display: block;
+    width: 40%;
+    border-radius: 10px;
+  }
+  
+  .contenedor {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .contenedor {
+    display: block;
+    width: 10%;
+    border-radius: 10px;
+  }
+  
+  .barra-opciones {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0,0,0,0.5);
+    padding: 1px;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .barra-opciones button {
+    color: white;
+    background: transparent;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 5px 10px;
+  
+  }
+  
+  
+  
+  .contenedor{
+    width: 350px;
+    margin-left: 1600px;
+
+    margin-top: -50px;
+    display: block;
     
-    margin-top: 200px;
-     width: 200px;
-  
-  }
-  
-  
-  
-  
-  body{
-      margin: 0;
-      padding: 0;
-      background: url(/img/background.png);   
-      background-size: cover;
-      background-position: center;
-      font-family: sans-serif;
-  }
-  
-  .sec-1 {
-      text-align: unset;
-     display: contents;
-     width: 2000%;
-  
-  
     }
-  
-  
-  /*base*/
-  * {
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-  }
-  
-  html {
-    scroll-behavior: smooth;
-  }
-  
-  body {
-    margin: 3.5rem 0 0 0;
-    font-family: "Poppins", sans-serif;
-    font-size: 2rem;
-    background: linear-gradient(90deg, #000000 0%, #08174a 50%);
-    color: #ffffff;
-  }
-  
-  h1,
-  h2,
-  h3,
-  h4 {
-    color: #e6f7e6;
-    font-weight: 600;
-  }
-  
-  ul {
-    list-style: none;
-  }
-  
-  a {
-    text-decoration: none;
-  }
-  
-  img {
-    max-width: 100%;
-    height: auto;
-  }
-  
-  button,
-  input {
-    border: none;
-    outline: none;
-  }
-  
-  button {
-    cursor: pointer;
-    font-family: "Poppins", sans-serif;
-    font-size: 0.938rem;
-  }
-  
-  /*reutilisabes*/
-  .section {
-    padding: 4.5rem 0 2rem;
-  }
-  
-  .sectiontitle {
-    font-size: 2.25rem !important;
-    margin-bottom: 2rem;
-    text-align: center;
-  }
-  
-  .container {
-    max-width: 968px;
-    margin-left: 1.5rem;
-    margin-right: 1.5rem;
-  }
-  
-  .grid {
-    display: grid;
-  }
-  
-  .main {
-    overflow: hidden;
-  }
-  
-  body {
-      
-     background-image: url(/img/background.png)   
-   
     
+  .barra-opciones {
+    opacity: 0;
+    transition: opacity 0.3s ease;
   }
+  
+  .contenedor:hover .barra-opciones {
+    opacity: 1;
+  }
+  
+  
+  
+  .miib {
+  width: 900px;
+  margin-top: 100px;
+  margin-left: 400px;
+  
+  }
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  ----------------------------------------------------------------------------------------------
+  .image-right {
+    display: block;
+    margin-left: auto;
+    margin-right: 0;
+  }
+  
+  
+  .imagen-derecha {
+  
+  margin-right: 100px;
+  float: right
+  }
+  
+  
+  
+  .img-1  {
+    width: 200px;
+    margin-right: 3%;
+  
+  }
+  
+  
+  
+  
+  
+  .box{
+  
+      background-image: url(../img/background.png);
+    
+    
+    }
+    
+    .lilita-one-regular {
+      font-family: "Lilita One", serif;
+      font-weight: 400;
+      font-style: normal;
+    }
+    
+    
+    
+    .wiiu{
+      
+      margin-top: 200px;
+       width: 200px;
+    
+    }
+    
+    
+    
+    
+    body{
+        margin: 0;
+        padding: 0;
+        background: url(/img/background.png);   
+        background-size: cover;
+        background-position: center;
+        font-family: sans-serif;
+    }
+    
+    .sec-1 {
+        text-align: unset;
+       display: contents;
+       width: 2000%;
+    
+    
+      }
+    
+    
+    /*base*/
+    * {
+      box-sizing: border-box;
+      padding: 0;
+      margin: 0;
+    }
+    
+    html {
+      scroll-behavior: smooth;
+    }
+    
+    body {
+      margin: 3.5rem 0 0 0;
+      font-family: "Poppins", sans-serif;
+      font-size: 2rem;
+      background: linear-gradient(90deg, #000000 0%, #08174a 50%);
+      color: #ffffff;
+    }
+    
+    h1,
+    h2,
+    h3,
+    h4 {
+      color: #e6f7e6;
+      font-weight: 600;
+    }
+    
+    ul {
+      list-style: none;
+    }
+    
+    a {
+      text-decoration: none;
+    }
+    
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+    
+    button,
+    input {
+      border: none;
+      outline: none;
+    }
+    
+    button {
+      cursor: pointer;
+      font-family: "Poppins", sans-serif;
+      font-size: 0.938rem;
+    }
+    
+    /*reutilisabes*/
+    .section {
+      padding: 4.5rem 0 2rem;
+    }
+    
+    .sectiontitle {
+      font-size: 2.25rem !important;
+      margin-bottom: 2rem;
+      text-align: center;
+    }
+    
+    .container {
+      max-width: 968px;
+      margin-left: 1.5rem;
+      margin-right: 1.5rem;
+    }
+    
+    .grid {
+      display: grid;
+    }
+    
+    .main {
+      overflow: hidden;
+    }
+    
+    body {
+        
+       background-image: url(/img/background.png)   
+     
+      
+    }
