@@ -21,7 +21,7 @@ width: 5000px;
 
 .usericonformii {
   display: block;
-  margin-top: -95px;
+  margin-top: -100px;
   width: 180px;
   margin-right: 120px;
 }
@@ -165,7 +165,7 @@ display: block;
 .spoth{
   border-radius: 25px;
   margin-left: 200px;
-  margin-top: -330px;
+  margin-top: -700px;
   display: block;
 }
 
@@ -173,7 +173,7 @@ display: block;
 width: 110px;
 margin-left: 420px;
 border-radius: 25px;
-margin-top: -110px;
+margin-top: -100px;
 display: block;
 }
 
@@ -307,6 +307,12 @@ body {
 
 
 
+.miib {
+width: 900px;
+margin-top: 100px;
+margin-left: 400px;
+border-radius: 25px;
+}
 
 
 
