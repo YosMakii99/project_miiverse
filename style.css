@@ -137,10 +137,11 @@ display: block;
   .news {
   
   margin-left: 210px;
-  width: 1800px;
+  width: 1900px;
   margin-top: 300px;
   display: block;
- 
+  height: 130px;
+  
   }
   
   .miiverse {
